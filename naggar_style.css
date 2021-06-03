@@ -1,0 +1,66 @@
+.image{
+    display:inline-flex;
+}
+.image img{
+    height: 630px;
+    width: 1280px;
+    background-color: #e9eaec;
+    
+}
+.heading{
+    font-size:  20px;
+    margin-left: 25em;
+    color:crimson;
+    background-color: #e9eaec;
+    
+}
+.banner video{
+  
+    width: 1280px;
+    height: 630px;
+    background-color: #e9eaec;
+    size: cover;
+    
+
+}
+.maindiv{
+    display: inline-flex;
+}
+.maindiv h1{
+      font: size 25px;
+      margin-left: 0em;
+      color: darkorange;
+}
+.list{
+    margin-right: -20%;
+}
+
+. list ul li{
+    list-style:lower-roman;
+    margin-left: 60em;
+    list-style:unset;
+}
+.text-box{
+    width: 90%;
+    color:aliceblue;
+    position: absolute;
+    text-align: center;
+    font-size: 62px;
+    
+}
+.hero-btn{
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 12px 34px;
+    font-size: 20px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+.hero-btn:hover{
+    border:1px solid crimson;
+    background: crimson;
+    transition: 1s;
+}
