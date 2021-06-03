@@ -1,0 +1,53 @@
+.image{
+    display:inline-flex;
+}
+.image img{
+    height: 630px;
+    width: 1280px;
+
+    
+}
+.heading{
+    font-size:  20px;
+    margin-left: 25em;
+    color:crimson;
+    
+    
+}
+.para{
+    margin-left: 5em;
+    text-align: center;
+}
+.banner video{
+  
+    width: 1280px;
+    height: 630px;
+    size: cover;
+    
+
+}
+
+.text-box{
+    width: 90%;
+    color:aliceblue;
+    position: absolute;
+    text-align: center;
+    font-size: 62px;
+    
+}
+.hero-btn{
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 12px 34px;
+    font-size: 20px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+.hero-btn:hover{
+    border:1px solid crimson;
+    background: crimson;
+    transition: 1s;
+}
